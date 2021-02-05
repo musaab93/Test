@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Amiri';
+    src: url('subset-Amiri-Bold.eot');
+    src: url('subset-Amiri-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Amiri-Bold.woff2') format('woff2'),
+        url('subset-Amiri-Bold.woff') format('woff'),
+        url('subset-Amiri-Bold.ttf') format('truetype'),
+        url('subset-Amiri-Bold.svg#Amiri-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
